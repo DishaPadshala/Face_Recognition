@@ -20,8 +20,8 @@ A real-time face recognition application using a custom CNN trained on a self-co
 ## Setup
 
 ### 1. Clone the repository
-    git clone https://github.com/your-username/touchless-facial-recognition.git
-    cd touchless-facial-recognition
+    git clone https://github.com/DishaPadshala/Face_Recognition.git
+    cd Face_Recognition
 
 ### 2. Create virtual environment
     python3 -m venv venv
