@@ -1,4 +1,3 @@
-"""This file is used to create dataset of real and fake images from real and fake video respectively."""
 import numpy as np
 import argparse
 import cv2
