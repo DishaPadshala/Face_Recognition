@@ -5,7 +5,10 @@ A real-time face recognition application using a custom CNN trained on a self-co
 ## Project Structure
 
     touchless-facial-recognition/
-    ├── faces_dataset/                        
+    ├── faces_dataset/
+    ├── data/
+    │   ├── test/
+    │   └── train/ 
     ├── face_detector/                        
     │   ├── deploy.prototxt
     │   └── res10_300x300_ssd_iter_140000.caffemodel
